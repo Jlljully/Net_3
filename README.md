@@ -33,9 +33,15 @@ show bgp x.x.x.x/32
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_7.png "tcp")
+
+**Еще, например, 20,21 - FTP, telnet - 23**
+
 4. Проверьте используемые UDP-сокеты в Ubuntu. Какие протоколы и приложения используют эти порты?
 
 ### Ответ
+
+![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_9.png "udp")
 
 5. Используя diagrams.net, создайте L3-диаграмму вашей домашней сети или любой другой сети, с которой вы работали. 
 
