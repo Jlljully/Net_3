@@ -19,6 +19,16 @@ show bgp x.x.x.x/32
 
 ### Ответ
 
+**Неактуальные методички, не адаптированные под ubuntu, с которой начинали работать в прошлых модулях**
+
+![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_4.png "Dummy")
+
+![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_5.png "Dummy")
+
+**Например, маршруты пришлось добавлять с nmcli**
+
+![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_6.png "Route")
+
 3. Проверьте открытые TCP-порты в Ubuntu. Какие протоколы и приложения используют эти порты? Приведите несколько примеров.
 
 ### Ответ
