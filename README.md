@@ -25,7 +25,7 @@ show bgp x.x.x.x/32
 
 ![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_5.png "Dummy")
 
-**Например, маршруты пришлось добавлять с nmcli**
+**Маршруты пришлось добавлять с nmcli**
 
 ![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_6.png "Route")
 
