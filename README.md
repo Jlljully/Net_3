@@ -19,7 +19,7 @@ show bgp x.x.x.x/32
 
 ### Ответ
 
-**Неактуальные методички, не адаптированные под ubuntu, с которой начинали работать в прошлых модулях**
+**Неактуальные методички, не адаптированные под ubuntu, с которой начинали работать в прошлых модулях. Я бы предложила ссылку добавить в презу [такую](https://super-unix.com/ubuntu/ubuntu-ubuntu-18-04-how-to-create-a-persistent-dumthe-network-interface/)**
 
 ![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_4.png "Dummy")
 
