@@ -47,6 +47,7 @@ show bgp x.x.x.x/32
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Net_3/blob/main/Screenshot_10.png "домик")
 
  ---
  
